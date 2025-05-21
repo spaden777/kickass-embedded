@@ -23,4 +23,6 @@ Principal-level platform engineer and systems architect specializing in embedded
 
 📫 [spaden777@gmail.com](mailto:spaden777@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/spaden777)  
-📄 [Resume (PDF)](https://github.com/spaden777/kickass-embedded/blob/main/Scott_Paden_Resume.pdf)
+🔗 [LinkedIn Patents](https://www.linkedin.com/in/spaden777/details/patents/)  
+🧾 [My Resume](https://tinyurl.com/Spaden777Resume/)  
+📄 [My Patents](https://tinyurl.com/ScottPadenPatents/)
