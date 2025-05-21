@@ -1,0 +1,19 @@
+{
+  "device_id": "NUCLEO-F446ZE",
+  "timestamp": "2025-05-21T16:00:00Z",
+  "uptime_sec": 86400,
+  "mcu_temperature_c": 37.2,
+  "input_voltage_mv": 3300,
+  "core_clock_hz": 180000000,
+  "error_codes": [],
+  "peripherals": {
+    "i2c1_active": true,
+    "spi2_fault": false,
+    "uart3_rx_buffer_overrun": false
+  },
+  "gpio_status": {
+    "user_button_pressed": false,
+    "led1_on": true,
+    "led2_on": false
+  }
+}

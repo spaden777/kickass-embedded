@@ -1,6 +1,6 @@
 # Kickass Embedded
 
-This repo gives context for my embedded systems work — most of which lives in private repositories due to IP and product constraints.
+This repository provides context for my embedded systems work—most of which resides in private repositories due to IP and confidentiality constraints.
 
 ## 🛠️ Focus Areas
 
@@ -8,14 +8,14 @@ This repo gives context for my embedded systems work — most of which lives in 
 - Real-time systems (bare-metal and FreeRTOS-style schedulers)
 - Peripheral integration (I2C, SPI, UART, GPIO, ADC)
 - Telemetry and fault pipelines (AWS CLI, JSON structures, OTA logging)
-- CI/CD tooling (GitLab, YAML pipelines, build/test automation)
+- CI/CD tooling (GitLab, YAML pipelines, build/test/deploy automation)
 
-## 📁 What’s in This Repo
+## 📁 What's in This Repo
 
-- `README.md` – What you’re reading now
-- `ci-sample.yml` – An example GitLab CI pipeline (sanitized)
+- `README.md` – This document
+- `ci-sample.yml` – Example GitLab CI pipeline for firmware build/test/deploy
 - `telemetry-format.json` – A sample device telemetry payload structure
-- `firmware-notes.md` – Example documentation notes I’d hand to a junior dev
+- `firmware-notes.md` – Notes for embedded developers working with STM32 or similar platforms
 
 ## 👋 About Me
 
@@ -23,6 +23,4 @@ Principal-level platform engineer and systems architect specializing in embedded
 
 📫 [spaden777@gmail.com](mailto:spaden777@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/spaden777)  
-🔗 [LinkedIn Patents](https://www.linkedin.com/in/spaden777/details/patents/)  
-🧾 [My Resume](https://tinyurl.com/Spaden777Resume/)  
-📄 [My Patents](https://tinyurl.com/ScottPadenPatents/)
+📄 [Resume](./Edward_Paden_Resume.pdf)
